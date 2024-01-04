@@ -5,6 +5,10 @@
 		}
 	],
 	"settings": {
+<<<<<<< HEAD
 		"liveServer.settings.multiRootWorkspaceName": "Proyecto Final"
+=======
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto Final - Copy"
+>>>>>>> b971fff (Proyecto terminado)
 	}
 }
